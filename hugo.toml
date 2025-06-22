@@ -11,8 +11,8 @@ ShowBreadCrumbs = true
 ShowPostNavLinks = true
 
 [params.homeInfoParams]
-Title = "Aquaponics, Gardening, and Software"
-Content = "🐟🌱💻"
+Title = "🐟🌱💻"
+Content = "Hi, I'm Simon Rall. I write software for a living. In my free time, I do a lot of gardening and playing with aquaponics. I am hoping to find where those two worlds meet."
 
 [menu]
 [[menu.main]]
