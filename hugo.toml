@@ -1,6 +1,6 @@
 baseURL = 'https://ponix.dev/'
 languageCode = 'en-us'
-title = 'Ponix Blog'
+title = 'Ponix'
 theme = 'PaperMod'
 
 [params]
