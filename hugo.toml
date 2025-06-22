@@ -10,6 +10,10 @@ ShowReadingTime = true
 ShowBreadCrumbs = true
 ShowPostNavLinks = true
 
+[params.homeInfoParams]
+Title = "Hi there 👋"
+Content = "I'm a software developer and this is my blog where I share my thoughts and experiences."
+
 [menu]
 [[menu.main]]
 name = "Home"
