@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ponix-dev.github.io/site/posts/my-first-post/</loc>
+    <loc>https://ponix.dev/posts/my-first-post/</loc>
     <lastmod>2025-06-22T14:56:35-05:00</lastmod>
   </url><url>
-    <loc>https://ponix-dev.github.io/site/</loc>
+    <loc>https://ponix.dev/</loc>
     <lastmod>2025-06-22T14:56:35-05:00</lastmod>
   </url><url>
-    <loc>https://ponix-dev.github.io/site/posts/</loc>
+    <loc>https://ponix.dev/posts/</loc>
     <lastmod>2025-06-22T14:56:35-05:00</lastmod>
   </url><url>
-    <loc>https://ponix-dev.github.io/site/categories/</loc>
+    <loc>https://ponix.dev/categories/</loc>
   </url><url>
-    <loc>https://ponix-dev.github.io/site/tags/</loc>
+    <loc>https://ponix.dev/tags/</loc>
   </url>
 </urlset>

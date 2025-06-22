@@ -1,4 +1,4 @@
-baseURL = 'https://ponix-dev.github.io/site/'
+baseURL = 'https://ponix.dev/'
 languageCode = 'en-us'
 title = 'Ponix Blog'
 theme = 'PaperMod'
