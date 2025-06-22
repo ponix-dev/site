@@ -1,0 +1,28 @@
+name: Deploy Hugo site to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main
+  workflow_call:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: 'latest'
+
+      - name: Build site
+        run: hugo -d docs
+
+      - name: Push built site
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Rebuild site
+          file_pattern: docs/*
